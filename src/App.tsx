@@ -11,12 +11,12 @@ const Box: React.FC<{ width: number | string; height: number | string; backgroun
 const App: React.FC = () => {
   return (
     <div className='Main'>
-      <h1>Brixter Bondoc</h1>
+      <h1>Daniel Manarang</h1>
       <div className='BoxContainer'>
         <Box 
           width='200px' 
           height='200px' 
-          backgroundColor='red' 
+          backgroundColor='green' 
           borderColor='white' 
           text='CPEITEL' 
         />
