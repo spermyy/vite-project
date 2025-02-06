@@ -1,0 +1,17 @@
+.Main {
+  margin-left: 500px;
+}
+
+.BoxContainer {
+  margin-left: 90px;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid black;
+  font-size: 18px; 
+  margin-top: 18px;
+}
